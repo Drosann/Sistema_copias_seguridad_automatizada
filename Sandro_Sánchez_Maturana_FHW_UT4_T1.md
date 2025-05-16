@@ -109,7 +109,7 @@ set ERRORLEVEL=1
 )
 
 - Alerta por email: ¿Cómo se configura?
-  ![imagen1](https://static.vecteezy.com/system/resources/previews/055/637/733/non_2x/holographic-email-alert-with-warning-signal-being-handled-by-a-professional-vector.jpg)
+  ![imagen1](https://imgs.search.brave.com/cnbfPYvUCcaUDJbG9oAm3fYVLnOMuWAxUSO2iPju1rk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93cG1h/aWxzbXRwLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/My9lbWFpbC1hbGVy/dHMtdGVzdC1zbXRw/LnBuZw)
 
 Crear una alerta
 Ve a Alertas de Google.
