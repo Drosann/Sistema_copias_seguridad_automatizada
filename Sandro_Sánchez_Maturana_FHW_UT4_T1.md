@@ -109,7 +109,7 @@ set ERRORLEVEL=1
 )
 
 - Alerta por email: ¿Cómo se configura?
-  (imagen1)https://static.vecteezy.com/system/resources/previews/055/637/733/non_2x/holographic-email-alert-with-warning-signal-being-handled-by-a-professional-vector.jpg
+  ![imagen1](https://static.vecteezy.com/system/resources/previews/055/637/733/non_2x/holographic-email-alert-with-warning-signal-being-handled-by-a-professional-vector.jpg)
 
 Crear una alerta
 Ve a Alertas de Google.
@@ -123,7 +123,7 @@ El número de resultados que quieres ver
 Las cuentas que reciben la alerta
 Haz clic en Crear alerta. Recibirás correos electrónicos cada vez que encontremos resultados de búsqueda que coincidan con tu selección.
 
-(imagen2)https://i.blogs.es/7d8edb/crear-punto-de-restauracion-windows-11/840_560.jpg
+![imagen2](https://i.blogs.es/7d8edb/crear-punto-de-restauracion-windows-11/840_560.jpg)
 
 - Prueba de restauración: ¿Cada cuánto tiempo? ¿Cómo?
 
